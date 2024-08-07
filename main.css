@@ -1,0 +1,18 @@
+h1 {
+    color: blue;
+    font-size: 70px;
+}
+#second-heading {
+    color:red;
+    font-size: 70px;
+}
+
+.three-heading {
+    color: yellow;
+    font-size: 30px;
+}
+img {
+    position: left;
+    height: 350px;
+    width: 300px;
+}
